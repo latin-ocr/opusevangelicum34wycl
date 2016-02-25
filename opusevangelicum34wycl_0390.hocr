@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusevangelicum34wycl/opusevangelicum34wycl_0390.png"; bbox 0 0 1986 3289; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 773 113 1133 158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 773 113 1133 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 773 113 1133 158; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 773 113 960 158; x_wconf 77' lang='grc' dir='ltr'>ΒΑΤΕ</span> <span class='ocrx_word' id='word_1_2' title='bbox 987 113 1133 158; x_wconf 79' lang='lat' dir='ltr'>DUE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 1896 1482 1914">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 1896 1482 1914">
+     <span class='ocr_line' id='line_1_2' title="bbox 1457 1899 1482 1914"><span class='ocrx_word' id='word_1_3' title='bbox 1457 1899 1482 1914; x_wconf 43' lang='grc' dir='ltr'>,ὦ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1436 1899 1452 1914"><span class='ocrx_word' id='word_1_4' title='bbox 1436 1899 1452 1914; x_wconf 88' lang='grc' dir='ltr'>υ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1410 1899 1426 1914"><span class='ocrx_word' id='word_1_5' title='bbox 1410 1899 1426 1914; x_wconf 88' lang='grc' dir='ltr'>Ν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1337 1899 1350 1914"><span class='ocrx_word' id='word_1_6' title='bbox 1337 1899 1350 1914; x_wconf 92' lang='grc' dir='ltr'>Τ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1307 1899 1332 1914"><span class='ocrx_word' id='word_1_7' title='bbox 1307 1899 1332 1914; x_wconf 72' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1287 1899 1300 1914"><span class='ocrx_word' id='word_1_8' title='bbox 1287 1899 1300 1914; x_wconf 67' lang='grc' dir='ltr'><em>Η</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1269 1899 1282 1914"><span class='ocrx_word' id='word_1_9' title='bbox 1269 1899 1282 1914; x_wconf 85' lang='grc' dir='ltr'>Ρ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 538 1896 576 1913"><span class='ocrx_word' id='word_1_10' title='bbox 538 1896 576 1913; x_wconf 57' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 496 1896 532 1914"><span class='ocrx_word' id='word_1_11' title='bbox 496 1896 532 1914; x_wconf 64' lang='lat' dir='ltr'>m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 473 1896 489 1913"><span class='ocrx_word' id='word_1_12' title='bbox 473 1896 489 1913; x_wconf 76' lang='grc' dir='ltr'>ν.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 451 1896 469 1913"><span class='ocrx_word' id='word_1_13' title='bbox 451 1896 469 1913; x_wconf 93' lang='grc' dir='ltr'>Α</span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 429 1896 446 1913"><span class='ocrx_word' id='word_1_14' title='bbox 429 1896 446 1913; x_wconf 78' lang='lat' dir='ltr'><strong>G</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
